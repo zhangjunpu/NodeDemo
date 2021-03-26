@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/discover/c-pages/artist/index.js"],"names":["memo"],"mappings":"gIAAA,2BAEeA,0BAAK,WAClB,OACE,6BACE","file":"static/js/7.bc37d0ba.chunk.js","sourcesContent":["import React, { memo } from 'react'\n\nexport default memo(function HYArtist() {\n  return (\n    <div>\n      <h2>HYArtist</h2>\n    </div>\n  )\n})\n"],"sourceRoot":""}

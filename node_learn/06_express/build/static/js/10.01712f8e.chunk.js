@@ -1,0 +1,2 @@
+(this["webpackJsonphy-music-web-music"]=this["webpackJsonphy-music-web-music"]||[]).push([[10],{225:function(e,n,t){"use strict";t.r(n);var c=t(0),s=t.n(c);n.default=Object(c.memo)((function(){return s.a.createElement("div",null,s.a.createElement("h2",null,"HYSongs"))}))}}]);
+//# sourceMappingURL=10.01712f8e.chunk.js.map
